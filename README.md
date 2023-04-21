@@ -5,6 +5,7 @@ This app is coded with python. Your AV might flag it, since it is trying to kill
 
 This is the first iteration of the app and took 1 hour to built.It lacks some case checks. I might add some switches to revert to the default settings easier later on and make the app more functional.
 
+In order to get the default settings back,re run the APP and choose the appropriate number.
 
 File SHA 8372660851390f571b89c81d606c43f1b420feb0555592931c116629684d1639
 
