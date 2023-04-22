@@ -7,7 +7,7 @@ This is the first iteration of the app and took 1 hour to built.It lacks some ca
 
 In order to get the default settings back,re run the APP and choose the appropriate number.
 
-File SHA 8372660851390f571b89c81d606c43f1b420feb0555592931c116629684d1639
+File SHA 22e9b4bfcbc1b07555fc2b66d37bc2ead59fd4f32a5f8008054ba7a71210c089
 
 
 
