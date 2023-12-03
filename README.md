@@ -1,4 +1,9 @@
 # Dynamic-Windows-10-Search-bar-killer
+DEPRECATED
+Was causing older CPUs to have usage spikes.
+This project will be revived.
+
+
 Pauses windows 10 related search services when you game. I had microstutters in PUBG (who would have guessed the game lol) and i launched WAP during a gaming session.
 I noticed that the search app was causing microstutters during gameplay. This greatly helped minimizing the stutters, but some still occur since its good PUBG.
 This app is coded with python. Your AV might flag it, since it is trying to kill windows 10 services. Malwarebytes will let it run.
